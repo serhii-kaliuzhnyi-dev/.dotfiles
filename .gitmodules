@@ -1,0 +1,9 @@
+[submodule "personal"]
+	path = personal
+	url = git@github.com:dromix/.dotfiles-personal.git
+[submodule "nvim/.config/nvim"]
+	path = nvim/.config/nvim
+	url = git@github.com:dromix/init.lua.git
+[submodule "tree-sitter/.config/tree-sitter/tree-sitter-lua"]
+	path = tree-sitter/.config/tree-sitter/tree-sitter-lua
+	url = git@github.com:Azganoth/tree-sitter-lua.git
