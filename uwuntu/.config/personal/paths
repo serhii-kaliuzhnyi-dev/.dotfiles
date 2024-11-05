@@ -2,7 +2,7 @@
 addToPathFront /home/skaluzhnyi/n/bin
 addToPathFront $DENO_INSTALL
 addToPath /home/skaluzhnyi/personal/lua-language-server/bin/Linux
-addToPath /usr/local/go/bin
+addToPathFront /usr/local/go/bin
 addToPath $GOPATH/bin
 addToPath $HOME/work/wrapper
 addToPath $HOME/.yarn/bin

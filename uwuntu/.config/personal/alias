@@ -31,11 +31,14 @@ alias cclip="xclip -selection clipboard"
 alias pclip="xclip -selection clipboard"
 alias timeplus="~/dotfiles/apps/time_plus_30"
 alias echotime="~/dotfiles/apps/echo_time"
-alias livestream_screenkey="screenkey -s large --scr 2 -p bottom --geometry 1210x300+712+810";
-alias yt_screenkey="screenkey -s large --scr 1 -p bottom --geometry 510x300+1412+850";
+alias livestream_screenkey="screenkey -s large --scr 2 -p bottom --geometry 1210x300+712+810"
+alias yt_screenkey="screenkey -s large --scr 1 -p bottom --geometry 510x300+1412+850"
 
 alias mynpm='rm ~/.npmrc'
 alias dc="docker-compose"
 alias pbcopy='xclip -selection clipboard'
 alias pbpaste='xclip -selection clipboard -o'
 alias y='yarn'
+alias fd=fdfind
+alias cf=cdktf
+alias tg=terragrunt
